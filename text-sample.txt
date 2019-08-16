@@ -12,3 +12,5 @@ line added on github text editor
 3rd line in new-line
 
 4th line after merge conflict
+
+new edit here
